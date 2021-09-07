@@ -124,5 +124,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 No current testing 
 
 ## Contributing
-[Olja Priyakovich](https://github.com/oljapriya)
+[Olja Priyakovich](https://github.com/oljapriya) :octocat:
 
