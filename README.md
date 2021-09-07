@@ -1,4 +1,23 @@
-me# 21 MERN: Book Search Engine
+<h1 align="center"> MERN: Book Search Engine 📘 </h1> 
+
+## Description 
+
+A MERN stack application using Google Books API that allows a user to login, search books and save favorites. 
+
+## Table of Contents
+- [Description](#Description)
+- [Links](#Links) 
+- [User Story](#Userstory) 
+- [Acceptance Criteria](Acceptancecriteria)
+- [Screenshots](#Screenshots)
+- [Instalation](#Instalation)
+- [Usage](#Usage)
+- [Technologies Used](#TechnologiesUsed)
+- [Test](#Test)
+
+## Links
+
+[Deployed Application](https://booksearch11.herokuapp.com/)
 
 
 ## User Story
